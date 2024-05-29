@@ -1,6 +1,6 @@
 function checkPassword() {
-    const passwordInput = document.getElementById('password').value;
-    const correctPassword = 'yourpassword'; // เปลี่ยนเป็นรหัสผ่านที่ต้องการ
+    const passwordInput = document.getElementById('จงใส่  IG ของจารที่ผีรักที่สุด 😘 (คำใบ้ 🧮)').value;
+    const correctPassword = 'leemeyy';
 
     if (passwordInput === correctPassword) {
         document.getElementById('password-container').style.display = 'none';
