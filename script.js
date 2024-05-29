@@ -1,5 +1,5 @@
 function checkPassword() {
-    const passwordInput = document.getElementById('จงใส่  IG ของจารที่ผีรักที่สุด 😘 (คำใบ้ 🧮)').value;
+    const passwordInput = document.getElementById('password').value;
     const correctPassword = 'leemeyy';
 
     if (passwordInput === correctPassword) {
