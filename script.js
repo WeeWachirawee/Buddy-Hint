@@ -1,6 +1,6 @@
 function checkPassword() {
     const passwordInput = document.getElementById('password').value;
-    const correctPassword = 'leemeyy';
+    const correctPassword = 'อาจารย์เมย์';
 
     if (passwordInput === correctPassword) {
         document.getElementById('password-container').style.display = 'none';
@@ -9,3 +9,4 @@ function checkPassword() {
         alert('Incorrect password, please try again.');
     }
 }
+
